@@ -1,3 +1,10 @@
+/**
+ * Dage Telegram Bot Sender -- www.dage.party
+ * 
+ * This Cloudflare Worker integrates with the Telegram Bot API to send messages (text, images, videos) to a Telegram chat.
+ * 
+ * For detailed setup instructions, including how to configure environment variables and run the bot, please refer to the README.md.
+ */
 
 let G_BotToken = "";
 let G_ChatID = "";
